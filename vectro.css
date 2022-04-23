@@ -100,7 +100,7 @@ body {
 .vectro-body {
   -webkit-background-clip: text;
   background-image: -webkit-linear-gradient(#C3BFB4 0%, #FDFCFA 50%, #E8E7E5 51%, #757172 52%, #E8E9DB 100%);
-  -webkit-filter: drop-shadow(2px 2px 15px #3F59F4);
+  -webkit-filter: drop-shadow(2px 2px 15px #ff1b7a);
 }
 
 .vectro-red {
